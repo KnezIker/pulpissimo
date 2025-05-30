@@ -71,10 +71,10 @@ packages:
       Git: https://github.com/pulp-platform/common_verification.git
     dependencies: []
   cv32e40p:
-    revision: 7a49867b2232d97344cde1b8a1e05bcb38634894
+    revision: 887fd145d9ff7e3a7b1d60ed43dca9fcb57e3cec
     version: null
     source:
-      Git: https://github.com/pulp-platform/cv32e40p.git
+      Git: https://github.com/KnezIker/cv32e40p.git
     dependencies:
     - common_cells
     - fpnew
